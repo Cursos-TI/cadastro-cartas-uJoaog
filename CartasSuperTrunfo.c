@@ -24,7 +24,7 @@ int main(){
   //Cadastro da Carta 1
 
   printf("Cadastro da Carta 1 \n");
-  printf("Digite o estado: \n");
+  printf("Digite o estado: \n"); //Usar apenas uma letra, ex:A
   scanf(" %c", &estado);
 
   printf("Digite o código: \n");
@@ -49,7 +49,7 @@ int main(){
 //Cadastro da carta 2
 
   printf("Cadastro da Carta 2 \n");
-  printf("Digite o estado: \n");
+  printf("Digite o estado: \n"); //Usar apenas uma letra, ex:B
   scanf(" %c", &estado2);
 
   printf("Digite o código: \n");
